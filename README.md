@@ -21,7 +21,7 @@ nota: para seleccionar el color ganador se debe tener en cuenta que los números
 pares son rojos y los impares son negros.
 5. Endpoint de listado de ruletas creadas con sus estados (abierta o cerrada)
 
-Endpoints:
+# Endpoints:
 POST(Para crear una ruleta)
 https://localhost:44352/api/roulette
 
